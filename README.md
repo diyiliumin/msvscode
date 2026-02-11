@@ -29,6 +29,35 @@ vscode main.c   #可带一个文件名作为参数
 
 所以它甚至有vscode的部分功能对吧（笑
 
+## 游戏截图
+
+```bash
+Microsoft vs Code
+微软大战代码
+
+墙墙墙墙墙墙墙墙墙墙墙墙墙墙墙
+墙                          墙
+墙                          墙
+墙                          墙
+墙              ==代码      墙
+墙                          墙
+墙                          墙
+墙                          墙
+墙                          墙
+墙                          墙
+墙            微软          墙
+墙            ||            墙
+墙                          墙
+墙                          墙
+墙墙墙墙墙墙墙墙墙墙墙墙墙墙墙
+ms: (7,10)-(8,10) opt=1
+code: (9,4)-(10,4) opt=3
+microsoft lifeleft:  9
+code      lifeleft:  9
+get bored?press q
+
+```
+
 ## 免责申明
 
 ```c
